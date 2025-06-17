@@ -4,8 +4,8 @@
 
 #### (Check out my [LinkedIn](https://www.linkedin.com/in/chkim888/) profile or my [website](https://chkim888.github.io) to see what I've been up to...)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkim823&theme=nightowl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chkim0820&theme=nightowl)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkim888&theme=nightowl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chkim888&theme=nightowl)](https://git.io/streak-stats)
 
 <!--
 **chkim0820/chkim0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
